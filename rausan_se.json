@@ -1,0 +1,23 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/countdown5.mp3"},
+	"8":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/btn_appear.mp3"},
+	"9":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/new_dora.mp3"},
+	"11":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/hule_fan_out.mp3"},
+    "25":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/pon.m4a"},
+    "26":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/nodoka_pon.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/kan.m4a"},
+    "28":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/nodoka_kan.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/chi.m4a"},
+    "30":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/nodoka_chi.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/riichi.m4a"},
+    "32":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/nodoka_riichi.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/ron.m4a"},
+    "34":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/nodoka_ron.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/tsumo.m4a"},
+    "36":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/nodoka_tsumo.wav"},
+    "40":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/winlose.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yakuman.mp3"}
+  }
+}
