@@ -1,10 +1,16 @@
 {
   "ver":1.0,
   "se":{
-    "3":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/countdown5.mp3"},
-	"8":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/btn_appear.mp3"},
-	"9":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/new_dora.mp3"},
-	"11":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/hule_fan_out.mp3"},
+    "1":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/01.wav"},
+	  "3":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/03.wav"},
+	  "4":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/04.wav"},
+	  "5":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/05.wav"},
+	  "6":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/06.wav"},
+	  "7":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/07.wav"},
+	  "8":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/08.wav"},
+	  "9":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/09.wav"},
+	  "10":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/10.wav"},
+	  "11":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/11/wav"},
     "25":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/toki_pon.mp3"},
     "26":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/竜華ポン.wav"},
     "27":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/toki_kan.mp3"},
@@ -17,7 +23,10 @@
     "34":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/竜華ロン.wav"},
     "35":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/toki_tumo.mp3"},
     "36":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/竜華ツモ２.wav"},
-    "40":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/winlose.mp3"},
-    "41":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yakuman.mp3"}
+    "37":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/37.wav"},
+    "38":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/38.wav"},
+	  "39":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/39.wav"},
+	  "40":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/01.wav"},
+	  "41":{"url":"https://raw.githubusercontent.com/arasadayo/tenhou/master/01.wav"},
   }
 }
